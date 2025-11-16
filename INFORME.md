@@ -20,16 +20,14 @@ Noviembre 2025
 
 ---
 
-# 1. Introducción
+# 1. Casos Reales Investigados
 
-# 2. Casos Reales Investigados
+# 2. Conclusiones
 
-# 3. Conclusiones
+# 3. Storyboard Narrativo y Visual
 
-# 4. Storyboard Narrativo y Visual
+# 4. Diagrama De Clases UML
 
-# 5. Diagrama De Clases UML
+# 5. Recursos a Utilizar En El Desarrollo Del Videojuego
 
-# 6. Recursos a Utilizar En El Desarrollo Del Videojuego
-
-# 7. Plan De Actividades
+# 6. Plan De Actividades
